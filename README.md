@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**danybal/danybal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Ingeniero de Software**
+- 🔭 **Trabajo actualmente en el ISSSTE**
+- 🌱 **Actualmente estoy aprendiendo tecnologías nuevas en Platzi**
+- 👯 **Estoy en busqueda de colaborar en nuevos proyectos que me ayuden crecer como profesional**
+- ⚽ **Mi deporte favorito es el futbol**
+- 🐶 **Me gustan los perros**
 
-Here are some ideas to get you started:
+### Vias de contacto
+![Static Badge](https://img.shields.io/badge/danybal?label=rbleinad%40gmail.com) 📫 **rbleinad@gmail.com** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/danybal/danybal)
