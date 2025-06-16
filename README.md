@@ -9,6 +9,7 @@
 
 ### Vias de contacto
 ![Static Badge](https://img.shields.io/badge/Perfil-https%3A%2F%2Fdanybal.github.io%2F-blue)
+
 ![Static Badge](https://img.shields.io/badge/Correo%20electr%C3%B3nico%20%F0%9F%93%AB-rbleinad%40gmail.com-yellow)
 
 ### :zap: Actividad reciente
