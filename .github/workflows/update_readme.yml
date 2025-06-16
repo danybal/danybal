@@ -1,0 +1,20 @@
+name: Actualizar README
+
+on:
+  schedule:
+    - cron: '* */12 * * *' #
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Actualizar el README  de este repositorio con la activida reciente
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+          
