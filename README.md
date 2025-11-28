@@ -14,8 +14,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [revokslab/ShipFree](https://github.com/revokslab/ShipFree)<br>
+1. ⭐ Starred [midudev/jscamp](https://github.com/midudev/jscamp)<br>
+2. ⭐ Starred [TailAdmin/free-react-tailwind-admin-dashboard](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)<br>
+3. ⭐ Starred [revokslab/ShipFree](https://github.com/revokslab/ShipFree)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 27th, 2025, 1:23:40 PM
+Last Updated: Friday, November 28th, 2025, 1:46:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
